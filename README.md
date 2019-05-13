@@ -1,2 +1,2 @@
-# THE-OLD-BALL-PROBLEM
+# THE OLD BALL PROBLEM
 Artificial Intelligence
